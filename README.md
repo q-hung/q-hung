@@ -5,7 +5,7 @@
 [![hungneox's github stats](https://github-readme-stats.vercel.app/api?username=hungneox&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A little more about me
-- [x] I'm lazy
+- I am a passionate software engineer residing in Espoo, Finland. My expertise lies in developing software solutions for both trade and recreational purposes. With a strong enthusiasm for my craft, I thrive on building innovative and efficient software solutions that address diverse industry needs. 
 
 ### Languages and Tools:
 
