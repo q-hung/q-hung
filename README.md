@@ -21,6 +21,13 @@
 
 
 __Check out my GitHub repository:__
+<div>
+  <p>
+    <a href="https://github.com/digiaonline/graphql-php">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=digiaonline&repo=graphql-php" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 <div>
   <p>
