@@ -1,4 +1,4 @@
-## Hey, I'm Hung Nguyen 👋
+## Hey, I'm Hung Ng̃ 👋
 
 👨🏽‍💻   Full-stack Software Engineer @ Helsinki
 
