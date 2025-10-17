@@ -1,4 +1,4 @@
-## Hey, I'm Ng. Quang Hưng 👋
+## Hey, I'm Q. Hưng 👋
 
 👨🏽‍💻   Full-stack Software Engineer @ Helsinki
 
