@@ -1,4 +1,4 @@
-## Hey, I'm Quang Hung Ng~ 👋
+## Hey, I'm Quang Hung Ng~ (hungneox) 👋
 
 👨🏽‍💻   Full-stack Software Engineer @ Helsinki
 
