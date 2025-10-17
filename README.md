@@ -33,7 +33,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/hungneox/falcon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungneox&repo=falcon" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=falcon" alt="GitHub Stats" />
     </a>
   </p>
 </div>
