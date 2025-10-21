@@ -2,7 +2,7 @@
 
 👨🏽‍💻   Full-stack Software Engineer @ Helsinki
 
-[![q-hung's github stats](https://github-readme-stats.vercel.app/api?username=hungneox&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![q-hung's github stats](https://github-readme-stats.vercel.app/api?username=q-hung&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A little more about me
  I'm a software engineer who simply loves what I do, living in Espoo, Finland. My main focus is on creating software solutions that are useful in everyday life and for fun activities. 
