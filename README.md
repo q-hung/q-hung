@@ -9,16 +9,19 @@
 
 ### Languages and Tools:
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/typescript/typescript.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Languages and Tools:
+
+<code><img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/typescript/3178C6?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/react/61DAFB?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/graphql/E10098?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/node.js/339933?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/go/00ADD8?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/python/3776AB?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/php/777BB4?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/django/092E20?style=brand"></code>
+<code><img height="32" src="https://cdn.simpleicons.org/git/F1502F?style=brand"></code>
+
 
 
 __Check out my GitHub repository:__
