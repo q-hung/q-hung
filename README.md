@@ -35,8 +35,16 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/hungneox/falcon">
+    <a href="https://github.com/q-hung/falcon">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=falcon" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+<div>
+  <p>
+    <a href="https://github.com/q-hung/go-hanviet">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=go-hanviet" alt="GitHub Stats" />
     </a>
   </p>
 </div>
