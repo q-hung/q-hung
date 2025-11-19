@@ -24,27 +24,44 @@
 
 
 
-__Check out my GitHub repository:__
-<div>
-  <p>
-    <a href="https://github.com/digiaonline/graphql-php">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=digiaonline&repo=graphql-php" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+## 🚀 Check out my GitHub repositories
 
-<div>
-  <p>
-    <a href="https://github.com/q-hung/falcon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=falcon" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/digiaonline/graphql-php">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=digiaonline&repo=graphql-php"
+          alt="graphql-php Repo"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/q-hung/falcon">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=falcon"
+          alt="falcon Repo"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/q-hung/go-hanviet">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=go-hanviet"
+          alt="go-hanviet Repo"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/q-hung/audiviz-coffeescript">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=audiviz-coffeescript"
+          alt="audiviz-coffeescript Repo"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div>
-  <p>
-    <a href="https://github.com/q-hung/go-hanviet">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=go-hanviet" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
