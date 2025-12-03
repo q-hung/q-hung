@@ -1,8 +1,6 @@
 ## Hey, I'm Q. Hưng 👋
 
-👨🏽‍💻   Full-stack Software Engineer @ Helsinki
-
-[![q-hung's github stats](https://github-readme-stats.vercel.app/api?username=q-hung&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+👨🏽‍💻  Software Engineer @ Helsinki
 
 ### A little more about me
  I'm a software engineer who simply loves what I do, living in Espoo, Finland. My main focus is on creating software solutions that are useful in everyday life and for fun activities. 
@@ -26,42 +24,5 @@
 
 ## 🚀 Check out my GitHub repositories
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/digiaonline/graphql-php">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=digiaonline&repo=graphql-php"
-          alt="graphql-php Repo"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/q-hung/falcon">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=falcon"
-          alt="falcon Repo"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/q-hung/go-hanviet">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=go-hanviet"
-          alt="go-hanviet Repo"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/q-hung/audiviz-coffeescript">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=q-hung&repo=audiviz-coffeescript"
-          alt="audiviz-coffeescript Repo"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
+- [graphql-php](https://github.com/digiaonline/graphql-php): A graphql library for PHP
+- [falcon](https://github.com/q-hung/falcon): Falcon - a concurrent file downloader in Go
