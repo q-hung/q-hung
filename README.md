@@ -1,4 +1,4 @@
-## Hey, I'm Q. Hưng 👋
+## Hey, I'm Quang Hưng 👋
 
 👨🏽‍💻  Software Engineer @ Helsinki
 
