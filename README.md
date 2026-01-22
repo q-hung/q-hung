@@ -7,8 +7,6 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
-
 <code><img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E?style=brand"></code>
 <code><img height="32" src="https://cdn.simpleicons.org/typescript/3178C6?style=brand"></code>
 <code><img height="32" src="https://cdn.simpleicons.org/react/61DAFB?style=brand"></code>
