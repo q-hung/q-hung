@@ -25,3 +25,4 @@
 - [graphql-php](https://github.com/digiaonline/graphql-php): A graphql library for PHP
 - [falcon](https://github.com/q-hung/falcon): Falcon - a concurrent file downloader in Go
 - [pg-explain-visualizer](https://github.com/q-hung/pg-explain-visualizer): Visualize PostgreSQL `EXPLAIN ANALYZE` output directly inside VS Code -- no need to leave your editor or paste into external tools.
+- [yt-xtract](https://github.com/q-hung/yt-xtract): A command-line tool to fetch transcripts and thumbnails from YouTube.
